@@ -1,0 +1,16 @@
+/* ASHEN — auto-generated, do not edit by hand.
+   Source: theme/ashen.lua -> gen.sh */
+
+@define-color base #0E0D0C;
+@define-color surface #171614;
+@define-color overlay #211F1C;
+@define-color line #2E2B27;
+@define-color muted #6B645C;
+@define-color subtle #8E867C;
+@define-color text #C9C2B8;
+@define-color bright #E8E2D8;
+@define-color accent #E08A4B;
+@define-color accent2 #B8683A;
+@define-color ok #8A9A6B;
+@define-color warn #D9A441;
+@define-color urgent #C2554A;
